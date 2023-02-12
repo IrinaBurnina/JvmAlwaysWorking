@@ -1,3 +1,3 @@
 # Ответ:
-![](//https://github.com/IrinaBurnina/JvmAlwaysWorking/blob/main/Metaspace.png)
+![](https://github.com/IrinaBurnina/JvmAlwaysWorking/blob/main/Metaspace.png)
 
